@@ -8,8 +8,6 @@ import TransactionHistory from './TransactionHistory/TransactionHistory';
 import info from './TransactionHistory/info';
 import Section from './Section/Section';
 
-console.log(user);
-
 export const App = () => {
   return (
     <div>
